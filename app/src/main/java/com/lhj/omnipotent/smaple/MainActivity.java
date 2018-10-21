@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //显示Fragment
                 getSupportFragmentManager().beginTransaction().add(R.id.framelayout,new FragmentA()).commit();
             }
         });

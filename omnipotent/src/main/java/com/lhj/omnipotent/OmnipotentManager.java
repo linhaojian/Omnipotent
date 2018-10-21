@@ -34,6 +34,14 @@ public class OmnipotentManager {
     }
 
     /**
+     * 根据唯一标识去除对应的接口
+     * @param interfaceKey
+     */
+    public void removeInterface(String interfaceKey){
+        hashMap.remove(interfaceKey);
+    }
+
+    /**
      *  通过唯一标识获取对应的无参无返回的接口，并触发其里面的函数，实现回调的功能
      * @param interfaceKey 接口的唯一标识
      */
