@@ -1,3 +1,4 @@
+# Omnipotent
 ![](https://upload-images.jianshu.io/upload_images/10018045-3a1d916e0af2d37b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 1.前言
