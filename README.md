@@ -49,7 +49,7 @@ _______________________________________________________________________________
 - `第二步：`
 ```Android
  dependencies {
-         implementation 'com.github.linhaojian:Omnipotent:1.1'
+         implementation 'com.github.linhaojian:Omnipotent:1.2'
  }
 ```
 ## 5.3 示例
